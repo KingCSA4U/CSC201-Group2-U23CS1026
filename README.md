@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Chibuike Steven Anukem
+- U23CS1026
 
 ## Getting Started
 
